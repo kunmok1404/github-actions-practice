@@ -21,7 +21,7 @@ jobs:
         run: |
           echo "good!!!!"
           echo "morning!!!"
-          -
+
       # 참고: https://docs.github.com/en/actions/learn-github-actions/variables
       - name: Github Actions 자체에 저장되어 있는 변수 사용해보기
         run: |
